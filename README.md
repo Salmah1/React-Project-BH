@@ -1,5 +1,8 @@
 # React Project
 
+
+### Description
+
 This project is centered on two categories:
 
 * The first is a charity to which people can donate items.
